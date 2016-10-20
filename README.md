@@ -6,7 +6,7 @@ To my surprise, this code has stayed on my hard disk for 5 years so I think I'd 
 
 This code implements a paper [1], which won the best paper award in BigMine 2012. 
 
-The code is easy to read and hopefully it may benefit others' research. However, note that this code was written in 2011 and it relies on a pretty old version of hadoop and dumbo. 
+The code is easy to read and hopefully it may benefit others' research. However, note that this code was written in 2011 and relied on pretty old versions of hadoop and dumbo. 
 
 
 #INSTALLATION
