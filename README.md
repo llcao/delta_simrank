@@ -4,7 +4,7 @@
 
 To my surprise, this code has stayed on my hard disk for 5 years so I think I'd put it on github. 
 
-This code implements a 2012 paper [1], which won the best paper award in BigMind 2012. 
+This code implements a 2012 paper [1], which won the best paper award in BigMine 2012. 
 
 The code structure is of simple strucutre and we hope it can benefit your research idea. However, note that this code was written in 2011 and may no longer be usable since it relies on a pretty old version of hadoop and dumbo. 
 
