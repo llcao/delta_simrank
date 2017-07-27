@@ -1,22 +1,21 @@
 
-
-#DESCRIPTION
-
 To my surprise, this code has stayed on my hard disk for 5 years so I think I'd better put it on github. 
+
+# DESCRIPTION
 
 This code implements a paper [1], which won the best paper award in BigMine 2012. 
 
 The code is easy to read and hopefully it may benefit others' research. However, note that this code was written in 2011 and relied on pretty old versions of hadoop and dumbo. 
 
 
-#INSTALLATION
+# INSTALLATION
 
 There is no need to compile or install the codes in this package.
 To run the program, please make sure the settings in the script files
 are correctly set. Especially those with the '?=' marks.
 
 
-#REQUIREMENTS
+# REQUIREMENTS
 
 This code uses third-party softwares/packages as follows:
 - Hadoop 0.21.0   
